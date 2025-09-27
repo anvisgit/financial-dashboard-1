@@ -49,8 +49,7 @@ Provides visualization, prediction, financial data, and sentiment insights.
 - Displays histogram of sentiment score distribution.
 - Provides interpretation of sentiment score.
 
-## Dependencies
-Python libraries required:
+Python stack:
 - yfinance
 - streamlit
 - pandas
