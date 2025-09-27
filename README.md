@@ -1,4 +1,3 @@
- #Financial Analysis and Stock Prediction
 
 ## Overview
 Streamlit-based application for financial analysis and stock prediction.  
